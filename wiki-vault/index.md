@@ -2,7 +2,7 @@
 title: Index
 type: map
 domain: meta
-updated: 2026-09-13
+updated: 2026-09-15
 ---
 
 # Index
@@ -417,4 +417,4 @@ Empty by design — this folder fills via the `ingest` operation ([[CLAUDE]] §8
 
 ## Gaps
 
-None currently outstanding. This build closed all 24 originally-missing pages (12 qbanks, 8 analyses, 3 drills/plans, plus this index) and the one concept a mid-build lint pass surfaced ([[kubernetes-for-ml]], referenced from 5 pages before it existed). A full `lint` pass ([[CLAUDE]] §8) run at the end of this build found zero broken wikilinks and zero orphan pages across all 304 pages (303 content pages plus this index). Log the next gap here the moment a `lint` or `query` operation turns one up — do not let this section silently go stale.
+None currently outstanding as of the last regeneration (303 pages). A full `lint` pass ([[CLAUDE]] §8) found zero broken wikilinks, zero orphan pages, and zero missing frontmatter. Log the next gap here the moment a `lint` or `query` operation turns one up — do not let this section silently go stale.

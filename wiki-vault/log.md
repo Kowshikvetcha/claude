@@ -67,4 +67,23 @@ one-time handoff note). Dispatched parallel writers to close every remaining gap
 
 ---
 
+## [2026-09-15] build | wiki/concepts/ reorganized into per-domain folders
+
+The 228 concept pages moved from a flat `wiki/concepts/*.md` layout into one subfolder per domain
+(`wiki/concepts/maths/`, `wiki/concepts/classical-ml/`, `wiki/concepts/nlp-llm/`, etc. — the same
+13 domains already used everywhere else in the vault), so a topic can be browsed directly in the
+file tree instead of only through a MOC or a Dataview query. Every file moved via `git mv` with no
+renames, so no wikilink needed to change — Obsidian resolves `[[filename]]` by name, not path.
+
+- Updated [[CLAUDE]] §3 (directory layout no longer says "flat on purpose"; documents the
+  folder-per-domain convention and that a page's folder must match its `domain:` field) and §8
+  (`ingest`/`query` now say to file new concept pages under `wiki/concepts/<domain>/`).
+- Updated [[START-HERE]]'s layout table to describe the folder-per-domain structure.
+- Regenerated [[index]] — unaffected in content (grouping was already keyed off the `domain:`
+  frontmatter field, not the folder), only the generator script's folder-detection logic changed.
+- Full `lint` pass after the move: zero broken wikilinks, zero orphans, zero missing frontmatter —
+  confirms the move was link-safe.
+
+---
+
 <!-- Newest entries go at the BOTTOM. Append, never rewrite history. -->

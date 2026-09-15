@@ -65,7 +65,20 @@ knowledge_claude/                 ← Obsidian vault root
 │   └── source-summary.md
 └── wiki/
     ├── maps/                     ← one Map of Content per domain. The curriculum spine.
-    ├── concepts/                 ← FLAT. One page per concept. The bulk of the vault.
+    ├── concepts/                 ← one page per concept, grouped into a folder per domain.
+    │   ├── maths/
+    │   ├── stats/
+    │   ├── programming/
+    │   ├── sql/
+    │   ├── classical-ml/
+    │   ├── deep-learning/
+    │   ├── nlp-llm/
+    │   ├── rag/
+    │   ├── agents/
+    │   ├── mlops/
+    │   ├── data-engineering/
+    │   ├── system-design/
+    │   └── behavioral/
     ├── entities/                 ← tools, libraries, platforms, papers, algorithms-as-products
     ├── roles/                    ← one page per target role: scope, rounds, readiness checklist
     ├── analyses/                 ← comparisons, syntheses, ML/LLM system-design case studies
@@ -74,9 +87,13 @@ knowledge_claude/                 ← Obsidian vault root
     └── summaries/                ← one page per ingested raw source
 ```
 
-**`wiki/concepts/` is flat on purpose.** Folders are a weak organising tool; links, MOCs and
-frontmatter are the strong ones. A concept belongs to a domain via its `domain:` field and
-to a curriculum via inbound links from `wiki/maps/`.
+**`wiki/concepts/` is grouped one folder per domain**, named exactly after the `domain:` value
+below — a concept's folder and its frontmatter `domain:` field must always agree. This makes
+browsing-by-topic possible directly in the filesystem/Obsidian file tree, not just via MOCs.
+The folder is a convenience, not the source of truth: **wikilinks are still by filename only**
+(`[[bias-variance-tradeoff]]`, never `[[classical-ml/bias-variance-tradeoff]]`) so moving a page
+between domain folders later — because you decide it fits a different domain — never breaks an
+inbound link; just `git mv` it into its new folder and update its `domain:` field to match.
 
 ---
 
@@ -184,7 +201,8 @@ Never put LaTeX-heavy derivations on a card — put the *trigger* on the card an
 3. Write `wiki/summaries/src-<slug>.md`.
 4. Update **every** wiki page the source touches — a real source usually touches 10–15 pages.
    Prefer updating an existing page over creating a near-duplicate.
-5. Create pages for concepts the source introduces that have no page yet.
+5. Create pages for concepts the source introduces that have no page yet, filed under
+   `wiki/concepts/<domain>/` matching the new page's `domain:` field.
 6. Update `index.md` (add new pages, move anything out of the Gaps list).
 7. Append to `log.md`: `## [YYYY-MM-DD] ingest | <source title>` + one line per page touched.
 
@@ -192,7 +210,7 @@ Never put LaTeX-heavy derivations on a card — put the *trigger* on the card an
 
 1. Read `index.md` first to find candidate pages. Then read those pages, not the whole vault.
 2. Synthesise an answer **with citations** — cite as wikilinks to the pages used.
-3. If the answer is durable and reusable, file it back: new page in `wiki/concepts/`,
+3. If the answer is durable and reusable, file it back: new page in `wiki/concepts/<domain>/`,
    `wiki/analyses/` or `wiki/questions/`, then update `index.md` and append to `log.md`
    (`## [YYYY-MM-DD] query | <question>`).
 4. If the wiki could not answer it, that is a **gap** — record it in `index.md` § Gaps.

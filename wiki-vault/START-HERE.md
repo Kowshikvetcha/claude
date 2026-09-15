@@ -31,7 +31,7 @@ study plans — 303 pages total, all cataloged in [[index]].
 |---|---|---|
 | `wiki/maps/` | One Map of Content per domain — **the curriculum spine**. Each has an ordered "read these in this order" table. | 13 |
 | `wiki/roles/` | One page per target role: what the job actually does, the interview loop round by round, domain weighting, a readiness checklist. | 6 |
-| `wiki/concepts/` | The bulk of the vault. Flat, one idea per page: TL;DR → Intuition → Maths → Diagram → Code → In practice → Interview angle → Traps → Flashcards → Related. | 228 |
+| `wiki/concepts/` | The bulk of the vault, one folder per domain (`maths/`, `sql/`, `classical-ml/`, `nlp-llm/`, …). One idea per page: TL;DR → Intuition → Maths → Diagram → Code → In practice → Interview angle → Traps → Flashcards → Related. | 228 |
 | `wiki/entities/` | Tools, libraries, platforms as products (XGBoost, Spark, Kubernetes, MLflow, LangChain, etc.) — "what it is / when to use it vs alternatives," not interview theory. | 18 |
 | `wiki/analyses/` | System-design case studies (`case-*`) and head-to-head comparisons (`vs-*`). | 17 |
 | `wiki/questions/` | Question banks (`qbank-*`) — one per domain, plus a cross-domain rapid-fire bank. | 14 |
