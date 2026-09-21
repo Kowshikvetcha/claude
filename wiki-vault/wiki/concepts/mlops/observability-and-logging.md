@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, ai-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [observability, logging, monitoring, tracing, debugging]
+tags: [observability, logging, monitoring, tracing, debugging, flashcards]
 updated: 2026-09-13
 sources: []
 ---

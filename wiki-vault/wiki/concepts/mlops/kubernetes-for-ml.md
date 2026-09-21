@@ -6,7 +6,7 @@ roles: [mlops-engineer, ml-engineer]
 difficulty: intermediate
 frequency: medium
 status: seed
-tags: [kubernetes, model-serving, gpu-scheduling, orchestration]
+tags: [kubernetes, model-serving, gpu-scheduling, orchestration, flashcards]
 updated: 2026-09-13
 sources: []
 ---

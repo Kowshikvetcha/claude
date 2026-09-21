@@ -6,7 +6,7 @@ roles: [ai-engineer, ml-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [bm25, hybrid-search, rrf, lexical-search, rag]
+tags: [bm25, hybrid-search, rrf, lexical-search, rag, flashcards]
 updated: 2026-09-11
 sources: []
 ---

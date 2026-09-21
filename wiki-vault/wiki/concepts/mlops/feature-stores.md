@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [feature-store, training-serving-skew, point-in-time-correctness]
+tags: [feature-store, training-serving-skew, point-in-time-correctness, flashcards]
 updated: 2026-09-11
 sources: []
 ---

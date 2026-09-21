@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, data-scientist, ai-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [security, pii, privacy, access-control, governance]
+tags: [security, pii, privacy, access-control, governance, flashcards]
 updated: 2026-09-13
 sources: []
 ---

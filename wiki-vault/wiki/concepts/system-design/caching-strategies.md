@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, ai-engineer, fde]
 difficulty: core
 frequency: high
 status: drafted
-tags: [caching, cache-aside, ttl, feature-caching, llm-caching]
+tags: [caching, cache-aside, ttl, feature-caching, llm-caching, flashcards]
 updated: 2026-09-13
 sources: []
 ---

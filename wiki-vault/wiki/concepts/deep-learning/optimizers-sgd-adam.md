@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [sgd, momentum, adam, adamw, weight-decay, optimisation]
+tags: [sgd, momentum, adam, adamw, weight-decay, optimisation, flashcards]
 updated: 2026-09-12
 sources: []
 ---

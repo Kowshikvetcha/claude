@@ -6,7 +6,7 @@ roles: [agentic-engineer, ai-engineer, mlops-engineer]
 difficulty: core
 frequency: medium
 status: drafted
-tags: [agents, human-in-the-loop, active-learning, escalation]
+tags: [agents, human-in-the-loop, active-learning, escalation, flashcards]
 updated: 2026-09-11
 sources: []
 ---

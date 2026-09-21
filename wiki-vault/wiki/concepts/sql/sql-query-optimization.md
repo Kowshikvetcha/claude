@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer, ai-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [sql, performance, spark, explain, skew]
+tags: [sql, performance, spark, explain, skew, flashcards]
 updated: 2026-09-12
 sources: []
 ---

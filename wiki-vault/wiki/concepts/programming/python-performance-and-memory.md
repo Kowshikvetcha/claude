@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, ai-engineer, data-scientist]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [profiling, gil, memory, vectorisation, concurrency]
+tags: [profiling, gil, memory, vectorisation, concurrency, flashcards]
 updated: 2026-09-11
 sources: []
 ---

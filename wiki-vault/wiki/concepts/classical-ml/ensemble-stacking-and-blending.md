@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [ensembles, stacking, blending, meta-learner, oof]
+tags: [ensembles, stacking, blending, meta-learner, oof, flashcards]
 updated: 2026-09-11
 sources: []
 ---

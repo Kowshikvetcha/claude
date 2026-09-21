@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer, agentic-engine
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [dsa, bfs, dfs, binary-tree, topological-sort, graphs]
+tags: [dsa, bfs, dfs, binary-tree, topological-sort, graphs, flashcards]
 updated: 2026-09-11
 sources: []
 ---

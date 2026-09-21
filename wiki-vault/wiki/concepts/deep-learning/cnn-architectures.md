@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, data-scientist]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [resnet, vgg, inception, densenet, efficientnet, convnext, vit, vision]
+tags: [resnet, vgg, inception, densenet, efficientnet, convnext, vit, vision, flashcards]
 updated: 2026-09-12
 sources: []
 ---

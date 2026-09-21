@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [visualization, manifold-learning, tsne, umap, embeddings]
+tags: [visualization, manifold-learning, tsne, umap, embeddings, flashcards]
 updated: 2026-09-12
 sources: []
 ---

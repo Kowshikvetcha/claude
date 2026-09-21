@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, ai-engineer, agentic-engineer, fde]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [oop, design-patterns, sklearn-api, abstraction, code-structure]
+tags: [oop, design-patterns, sklearn-api, abstraction, code-structure, flashcards]
 updated: 2026-09-11
 sources: []
 ---

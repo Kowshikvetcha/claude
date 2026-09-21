@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [interpretability, shap, lime, feature-importance, explainability]
+tags: [interpretability, shap, lime, feature-importance, explainability, flashcards]
 updated: 2026-09-12
 sources: []
 ---

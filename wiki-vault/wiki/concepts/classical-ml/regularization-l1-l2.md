@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [regularization, sparsity, map-estimation, linear-models]
+tags: [regularization, sparsity, map-estimation, linear-models, flashcards]
 updated: 2026-09-11
 sources: []
 ---

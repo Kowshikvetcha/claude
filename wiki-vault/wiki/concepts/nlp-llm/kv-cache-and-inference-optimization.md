@@ -6,7 +6,7 @@ roles: [ai-engineer, ml-engineer, mlops-engineer]
 difficulty: advanced
 frequency: high
 status: drafted
-tags: [inference, kv-cache, attention, gpu-memory, serving]
+tags: [inference, kv-cache, attention, gpu-memory, serving, flashcards]
 updated: 2026-09-12
 sources: []
 ---

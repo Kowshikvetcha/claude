@@ -6,7 +6,7 @@ roles: [agentic-engineer, ai-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [agents, safety, prompt-injection, sandboxing, guardrails]
+tags: [agents, safety, prompt-injection, sandboxing, guardrails, flashcards]
 updated: 2026-09-11
 sources: []
 ---

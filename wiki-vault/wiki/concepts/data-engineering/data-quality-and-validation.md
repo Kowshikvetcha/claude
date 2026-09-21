@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer, data-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [data-quality, great-expectations, dlt-expectations, schema-validation]
+tags: [data-quality, great-expectations, dlt-expectations, schema-validation, flashcards]
 updated: 2026-09-13
 sources: []
 ---

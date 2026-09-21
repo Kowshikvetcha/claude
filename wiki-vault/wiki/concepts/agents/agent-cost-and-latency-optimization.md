@@ -6,7 +6,7 @@ roles: [agentic-engineer, ai-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [agents, cost, latency, inference, model-routing]
+tags: [agents, cost, latency, inference, model-routing, flashcards]
 updated: 2026-09-11
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: medium
 status: drafted
-tags: [knn, instance-based, distance-metrics, non-parametric]
+tags: [knn, instance-based, distance-metrics, non-parametric, flashcards]
 updated: 2026-09-12
 sources: []
 ---

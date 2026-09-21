@@ -190,6 +190,11 @@ What does high variance look like on a learning curve?::Train error low, val err
 Rules: 4–10 cards per concept page. One fact per card. No card longer than two lines.
 Never put LaTeX-heavy derivations on a card — put the *trigger* on the card and link the page.
 
+**Critical:** the plugin only scans notes carrying the `flashcards` tag (its `flashcardTags`
+setting is `#flashcards`, and frontmatter `tags:` entries count as vault tags). Any page with a
+`## Flashcards` section **must** include `flashcards` in its frontmatter `tags:` list, or its
+cards are invisible to review — silently, with no error.
+
 ---
 
 ## 8. Operations

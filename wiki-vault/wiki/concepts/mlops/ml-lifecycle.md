@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [mlops, lifecycle, mlflow, monitoring, retraining]
+tags: [mlops, lifecycle, mlflow, monitoring, retraining, flashcards]
 updated: 2026-09-11
 sources: []
 ---

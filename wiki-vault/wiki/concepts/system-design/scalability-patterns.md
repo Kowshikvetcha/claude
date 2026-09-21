@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, ai-engineer, fde]
 difficulty: core
 frequency: medium
 status: drafted
-tags: [scalability, horizontal-scaling, load-balancing, sharding, stateless-services]
+tags: [scalability, horizontal-scaling, load-balancing, sharding, stateless-services, flashcards]
 updated: 2026-09-13
 sources: []
 ---

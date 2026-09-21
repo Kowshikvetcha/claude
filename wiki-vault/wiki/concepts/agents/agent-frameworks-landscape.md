@@ -6,7 +6,7 @@ roles: [agentic-engineer, ai-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [agents, langgraph, autogen, crewai, orchestration]
+tags: [agents, langgraph, autogen, crewai, orchestration, flashcards]
 updated: 2026-09-11
 sources: []
 ---

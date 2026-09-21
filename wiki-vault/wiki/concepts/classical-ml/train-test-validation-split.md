@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [model-selection, generalization, leakage]
+tags: [model-selection, generalization, leakage, flashcards]
 updated: 2026-09-11
 sources: []
 ---

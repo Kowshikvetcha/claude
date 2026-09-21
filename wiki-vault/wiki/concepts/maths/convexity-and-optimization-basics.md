@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [convexity, optimization, hessian, conditioning, loss-landscape]
+tags: [convexity, optimization, hessian, conditioning, loss-landscape, flashcards]
 updated: 2026-09-11
 sources: []
 ---

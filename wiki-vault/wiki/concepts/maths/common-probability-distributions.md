@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [distributions, likelihood, exponential-family, modelling]
+tags: [distributions, likelihood, exponential-family, modelling, flashcards]
 updated: 2026-09-11
 sources: []
 ---

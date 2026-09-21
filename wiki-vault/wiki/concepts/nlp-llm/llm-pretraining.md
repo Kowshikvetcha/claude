@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, mlops-engineer]
 difficulty: advanced
 frequency: medium
 status: drafted
-tags: [pretraining, data-curation, deduplication, compute-cost, foundation-models]
+tags: [pretraining, data-curation, deduplication, compute-cost, foundation-models, flashcards]
 updated: 2026-09-13
 sources: []
 ---

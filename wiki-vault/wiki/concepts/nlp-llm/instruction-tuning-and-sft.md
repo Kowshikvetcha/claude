@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [sft, instruction-tuning, post-training, alignment]
+tags: [sft, instruction-tuning, post-training, alignment, flashcards]
 updated: 2026-09-13
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, ai-engineer, fde]
 difficulty: core
 frequency: high
 status: drafted
-tags: [latency, throughput, p99, serving, capacity-planning]
+tags: [latency, throughput, p99, serving, capacity-planning, flashcards]
 updated: 2026-09-13
 sources: []
 ---

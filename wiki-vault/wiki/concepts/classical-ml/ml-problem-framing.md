@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, fde]
 difficulty: core
 frequency: high
 status: drafted
-tags: [problem-framing, metrics, scoping]
+tags: [problem-framing, metrics, scoping, flashcards]
 updated: 2026-09-11
 sources: []
 ---

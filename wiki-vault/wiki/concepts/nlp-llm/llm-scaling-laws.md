@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, mlops-engineer]
 difficulty: advanced
 frequency: medium
 status: drafted
-tags: [scaling-laws, chinchilla, kaplan, compute-optimal, build-vs-buy]
+tags: [scaling-laws, chinchilla, kaplan, compute-optimal, build-vs-buy, flashcards]
 updated: 2026-09-13
 sources: []
 ---

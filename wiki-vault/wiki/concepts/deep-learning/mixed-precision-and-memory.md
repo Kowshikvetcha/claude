@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [mixed-precision, fp16, bf16, memory, quantization, gpu]
+tags: [mixed-precision, fp16, bf16, memory, quantization, gpu, flashcards]
 updated: 2026-09-13
 sources: []
 ---

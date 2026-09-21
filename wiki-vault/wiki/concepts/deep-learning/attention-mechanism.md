@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer, agentic-engine
 difficulty: core
 frequency: high
 status: drafted
-tags: [attention, transformer, self-attention, multi-head-attention]
+tags: [attention, transformer, self-attention, multi-head-attention, flashcards]
 updated: 2026-09-13
 sources: []
 ---

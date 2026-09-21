@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [scd, dimensional-modeling, delta-lake, merge]
+tags: [scd, dimensional-modeling, delta-lake, merge, flashcards]
 updated: 2026-09-13
 sources: []
 ---

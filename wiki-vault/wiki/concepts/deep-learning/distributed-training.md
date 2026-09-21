@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, mlops-engineer]
 difficulty: advanced
 frequency: high
 status: drafted
-tags: [distributed-training, data-parallel, model-parallel, fsdp, zero]
+tags: [distributed-training, data-parallel, model-parallel, fsdp, zero, flashcards]
 updated: 2026-09-13
 sources: []
 ---

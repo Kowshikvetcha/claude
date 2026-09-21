@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [experimentation, sample-size, mde, cuped, delta-method, guardrails]
+tags: [experimentation, sample-size, mde, cuped, delta-method, guardrails, flashcards]
 updated: 2026-09-12
 sources: []
 ---

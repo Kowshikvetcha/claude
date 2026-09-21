@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, mlops-engineer]
 difficulty: advanced
 frequency: high
 status: drafted
-tags: [inference, serving, latency, throughput, batching, speculative-decoding, tensor-parallelism]
+tags: [inference, serving, latency, throughput, batching, speculative-decoding, tensor-parallelism, flashcards]
 updated: 2026-09-13
 sources: []
 ---

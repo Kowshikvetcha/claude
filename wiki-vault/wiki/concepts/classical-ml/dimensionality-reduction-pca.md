@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [pca, svd, variance, eigen, whitening]
+tags: [pca, svd, variance, eigen, whitening, flashcards]
 updated: 2026-09-12
 sources: []
 ---

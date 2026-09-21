@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [spark, driver, executors, dag, lazy-evaluation]
+tags: [spark, driver, executors, dag, lazy-evaluation, flashcards]
 updated: 2026-09-13
 sources: []
 ---

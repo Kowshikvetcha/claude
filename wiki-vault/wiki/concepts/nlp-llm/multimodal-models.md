@@ -6,7 +6,7 @@ roles: [ai-engineer, ml-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [multimodal, vision-language, clip, vit, vlm]
+tags: [multimodal, vision-language, clip, vit, vlm, flashcards]
 updated: 2026-09-11
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [shadow-mode, canary, rollout, rollback, deployment]
+tags: [shadow-mode, canary, rollout, rollback, deployment, flashcards]
 updated: 2026-09-11
 sources: []
 ---

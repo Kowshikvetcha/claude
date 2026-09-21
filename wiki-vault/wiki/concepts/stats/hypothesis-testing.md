@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [inference, null-hypothesis, test-statistic, neyman-pearson]
+tags: [inference, null-hypothesis, test-statistic, neyman-pearson, flashcards]
 updated: 2026-09-11
 sources: []
 ---

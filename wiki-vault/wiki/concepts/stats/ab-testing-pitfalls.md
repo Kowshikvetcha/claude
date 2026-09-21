@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [experimentation, peeking, srm, interference, simpsons-paradox, novelty]
+tags: [experimentation, peeking, srm, interference, simpsons-paradox, novelty, flashcards]
 updated: 2026-09-12
 sources: []
 ---

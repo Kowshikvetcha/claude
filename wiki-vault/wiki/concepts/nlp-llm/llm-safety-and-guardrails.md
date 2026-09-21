@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, mlops-engineer, agentic-engineer, fde]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [prompt-injection, jailbreak, pii, content-filtering, red-teaming]
+tags: [prompt-injection, jailbreak, pii, content-filtering, red-teaming, flashcards]
 updated: 2026-09-13
 sources: []
 ---

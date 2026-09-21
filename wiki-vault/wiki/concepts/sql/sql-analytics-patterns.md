@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [sql, cohort, funnel, gaps-and-islands, pivot, median]
+tags: [sql, cohort, funnel, gaps-and-islands, pivot, median, flashcards]
 updated: 2026-09-12
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [gradient-flow, residual-connections, gradient-clipping, jacobian]
+tags: [gradient-flow, residual-connections, gradient-clipping, jacobian, flashcards]
 updated: 2026-09-12
 sources: []
 ---

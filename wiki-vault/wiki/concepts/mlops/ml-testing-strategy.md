@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [testing, ci-cd, quality-gates, invariance-tests]
+tags: [testing, ci-cd, quality-gates, invariance-tests, flashcards]
 updated: 2026-09-11
 sources: []
 ---

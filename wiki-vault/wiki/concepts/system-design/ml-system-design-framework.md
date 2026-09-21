@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [system-design, interview-framework, ml-lifecycle]
+tags: [system-design, interview-framework, ml-lifecycle, flashcards]
 updated: 2026-09-13
 sources: []
 ---

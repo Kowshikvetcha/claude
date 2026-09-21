@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [generalization, diagnostics, regularization]
+tags: [generalization, diagnostics, regularization, flashcards]
 updated: 2026-09-11
 sources: []
 ---

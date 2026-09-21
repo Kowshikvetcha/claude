@@ -6,7 +6,7 @@ roles: [data-engineer, ml-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [spark, partitioning, shuffle, small-file-problem, performance]
+tags: [spark, partitioning, shuffle, small-file-problem, performance, flashcards]
 updated: 2026-09-13
 sources: []
 ---

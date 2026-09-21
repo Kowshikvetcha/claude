@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer, agentic-engine
 difficulty: advanced
 frequency: high
 status: drafted
-tags: [evaluation, llm-as-judge, golden-dataset, regression-testing, human-eval]
+tags: [evaluation, llm-as-judge, golden-dataset, regression-testing, human-eval, flashcards]
 updated: 2026-09-13
 sources: []
 ---

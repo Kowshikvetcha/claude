@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [linear-models, ols, gauss-markov, collinearity, ridge]
+tags: [linear-models, ols, gauss-markov, collinearity, ridge, flashcards]
 updated: 2026-09-11
 sources: []
 ---

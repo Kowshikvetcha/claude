@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer]
 difficulty: advanced
 frequency: high
 status: drafted
-tags: [xgboost, boosting, second-order, regularization, spark, distributed]
+tags: [xgboost, boosting, second-order, regularization, spark, distributed, flashcards]
 updated: 2026-09-11
 sources: []
 ---

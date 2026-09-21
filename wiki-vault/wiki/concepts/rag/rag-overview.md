@@ -6,7 +6,7 @@ roles: [ai-engineer, ml-engineer, agentic-engineer, fde]
 difficulty: core
 frequency: high
 status: drafted
-tags: [rag, retrieval, grounding, architecture]
+tags: [rag, retrieval, grounding, architecture, flashcards]
 updated: 2026-09-12
 sources: []
 ---

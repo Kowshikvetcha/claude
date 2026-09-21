@@ -6,7 +6,7 @@ roles: []
 difficulty: core
 frequency: medium
 status: seed
-tags: []
+tags: [flashcards]
 updated: 
 sources: []
 ---

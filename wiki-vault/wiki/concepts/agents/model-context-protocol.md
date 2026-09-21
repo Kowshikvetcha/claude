@@ -6,7 +6,7 @@ roles: [ai-engineer, agentic-engineer, ml-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [mcp, interoperability, tool-discovery, agents, standards]
+tags: [mcp, interoperability, tool-discovery, agents, standards, flashcards]
 updated: 2026-09-13
 sources: []
 ---

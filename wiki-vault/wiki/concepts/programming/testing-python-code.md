@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, ai-engineer, agentic-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [pytest, fixtures, mocking, ml-testing, ci]
+tags: [pytest, fixtures, mocking, ml-testing, ci, flashcards]
 updated: 2026-09-11
 sources: []
 ---

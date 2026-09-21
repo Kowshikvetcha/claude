@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [cross-entropy, mse, huber, focal-loss, triplet-loss, objectives]
+tags: [cross-entropy, mse, huber, focal-loss, triplet-loss, objectives, flashcards]
 updated: 2026-09-12
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [generative-models, vae, gan, diffusion, autoregressive]
+tags: [generative-models, vae, gan, diffusion, autoregressive, flashcards]
 updated: 2026-09-13
 sources: []
 ---

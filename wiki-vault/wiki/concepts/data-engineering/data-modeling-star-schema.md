@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer]
 difficulty: core
 frequency: medium
 status: drafted
-tags: [data-modeling, star-schema, dimensional-modeling, warehouse]
+tags: [data-modeling, star-schema, dimensional-modeling, warehouse, flashcards]
 updated: 2026-09-13
 sources: []
 ---

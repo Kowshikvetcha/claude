@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [leakage, validation, pipelines, production-gap]
+tags: [leakage, validation, pipelines, production-gap, flashcards]
 updated: 2026-09-12
 sources: []
 ---

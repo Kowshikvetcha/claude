@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: medium
 status: drafted
-tags: [diagnostics, learning-curves, error-analysis, debugging]
+tags: [diagnostics, learning-curves, error-analysis, debugging, flashcards]
 updated: 2026-09-12
 sources: []
 ---

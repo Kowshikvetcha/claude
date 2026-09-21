@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [decision-theory, cost-matrix, operating-point, deployment]
+tags: [decision-theory, cost-matrix, operating-point, deployment, flashcards]
 updated: 2026-09-12
 sources: []
 ---

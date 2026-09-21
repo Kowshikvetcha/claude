@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [sql, window-functions, ranking, frames, deduplication]
+tags: [sql, window-functions, ranking, frames, deduplication, flashcards]
 updated: 2026-09-12
 sources: []
 ---

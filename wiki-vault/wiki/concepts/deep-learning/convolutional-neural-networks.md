@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [cnn, convolution, receptive-field, inductive-bias, vision]
+tags: [cnn, convolution, receptive-field, inductive-bias, vision, flashcards]
 updated: 2026-09-12
 sources: []
 ---

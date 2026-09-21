@@ -6,7 +6,7 @@ roles: [ml-engineer, data-scientist, ai-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [optimization, sgd, momentum, adam, learning-rate]
+tags: [optimization, sgd, momentum, adam, learning-rate, flashcards]
 updated: 2026-09-11
 sources: []
 ---

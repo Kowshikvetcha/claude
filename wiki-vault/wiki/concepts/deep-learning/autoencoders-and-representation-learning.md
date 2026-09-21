@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [autoencoder, representation-learning, embeddings, dimensionality-reduction, self-supervised]
+tags: [autoencoder, representation-learning, embeddings, dimensionality-reduction, self-supervised, flashcards]
 updated: 2026-09-13
 sources: []
 ---

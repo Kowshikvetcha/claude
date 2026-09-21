@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [t-test, welch, mann-whitney, chi-square, anova, ks-test, scipy]
+tags: [t-test, welch, mann-whitney, chi-square, anova, ks-test, scipy, flashcards]
 updated: 2026-09-12
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [data-engineer, ml-engineer, mlops-engineer, data-scientist]
 difficulty: core
 frequency: high
 status: drafted
-tags: [data-warehouse, data-lake, lakehouse, delta-lake, iceberg, hudi]
+tags: [data-warehouse, data-lake, lakehouse, delta-lake, iceberg, hudi, flashcards]
 updated: 2026-09-13
 sources: []
 ---

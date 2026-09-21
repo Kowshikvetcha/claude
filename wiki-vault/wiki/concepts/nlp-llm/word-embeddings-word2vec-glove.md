@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: medium
 status: drafted
-tags: [embeddings, word2vec, glove, skip-gram, negative-sampling]
+tags: [embeddings, word2vec, glove, skip-gram, negative-sampling, flashcards]
 updated: 2026-09-13
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, data-scientist, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [training-serving-skew, feature-store, feature-parity, mlops]
+tags: [training-serving-skew, feature-store, feature-parity, mlops, flashcards]
 updated: 2026-09-13
 sources: []
 ---

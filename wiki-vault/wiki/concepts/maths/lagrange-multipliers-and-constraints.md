@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: advanced
 frequency: medium
 status: drafted
-tags: [optimization, constraints, kkt, duality, svm, regularization]
+tags: [optimization, constraints, kkt, duality, svm, regularization, flashcards]
 updated: 2026-09-11
 sources: []
 ---

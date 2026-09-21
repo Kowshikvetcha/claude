@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [pipelines, idempotency, exactly-once, backfill]
+tags: [pipelines, idempotency, exactly-once, backfill, flashcards]
 updated: 2026-09-13
 sources: []
 ---

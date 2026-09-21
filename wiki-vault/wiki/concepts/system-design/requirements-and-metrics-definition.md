@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [requirements, metrics, guardrail-metrics, offline-online-metric]
+tags: [requirements, metrics, guardrail-metrics, offline-online-metric, flashcards]
 updated: 2026-09-13
 sources: []
 ---

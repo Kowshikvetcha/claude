@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer, agentic-engine
 difficulty: core
 frequency: high
 status: drafted
-tags: [resume, job-description, tailoring, impact-bullets]
+tags: [resume, job-description, tailoring, impact-bullets, flashcards]
 updated: 2026-09-13
 sources: []
 ---

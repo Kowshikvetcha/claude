@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [svm, kernels, margin, convex-optimization]
+tags: [svm, kernels, margin, convex-optimization, flashcards]
 updated: 2026-09-12
 sources: []
 ---

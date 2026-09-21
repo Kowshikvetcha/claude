@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer, agentic-engine
 difficulty: core
 frequency: high
 status: drafted
-tags: [transformer, attention, architecture, encoder-decoder]
+tags: [transformer, attention, architecture, encoder-decoder, flashcards]
 updated: 2026-09-13
 sources: []
 ---

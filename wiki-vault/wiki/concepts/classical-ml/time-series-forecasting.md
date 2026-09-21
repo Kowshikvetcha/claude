@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [forecasting, arima, stationarity, exponential-smoothing, gbdt]
+tags: [forecasting, arima, stationarity, exponential-smoothing, gbdt, flashcards]
 updated: 2026-09-12
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [relu, gelu, silu, sigmoid, tanh, dying-relu]
+tags: [relu, gelu, silu, sigmoid, tanh, dying-relu, flashcards]
 updated: 2026-09-12
 sources: []
 ---

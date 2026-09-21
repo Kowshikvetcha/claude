@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer, agentic-engine
 difficulty: core
 frequency: high
 status: drafted
-tags: [dsa, two-pointers, sliding-window, prefix-sums, patterns]
+tags: [dsa, two-pointers, sliding-window, prefix-sums, patterns, flashcards]
 updated: 2026-09-11
 sources: []
 ---

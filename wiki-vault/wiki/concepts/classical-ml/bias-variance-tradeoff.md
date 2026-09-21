@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [generalization, model-selection, decomposition]
+tags: [generalization, model-selection, decomposition, flashcards]
 updated: 2026-09-11
 sources: []
 ---

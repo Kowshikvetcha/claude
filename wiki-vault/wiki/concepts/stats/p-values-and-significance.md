@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [p-value, significance, fdr, base-rate, interpretation]
+tags: [p-value, significance, fdr, base-rate, interpretation, flashcards]
 updated: 2026-09-11
 sources: []
 ---

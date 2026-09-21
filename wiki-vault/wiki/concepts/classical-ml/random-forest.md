@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [ensembles, bagging, variance-reduction, oob]
+tags: [ensembles, bagging, variance-reduction, oob, flashcards]
 updated: 2026-09-11
 sources: []
 ---

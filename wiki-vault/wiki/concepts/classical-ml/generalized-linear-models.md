@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [glm, link-function, exponential-family, poisson, count-data]
+tags: [glm, link-function, exponential-family, poisson, count-data, flashcards]
 updated: 2026-09-11
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: medium
 status: drafted
-tags: [generative-models, bayes, text-classification, calibration]
+tags: [generative-models, bayes, text-classification, calibration, flashcards]
 updated: 2026-09-11
 sources: []
 ---

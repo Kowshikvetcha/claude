@@ -6,7 +6,7 @@ roles: [ai-engineer, ml-engineer]
 difficulty: advanced
 frequency: medium
 status: drafted
-tags: [rag, knowledge-graph, entity-extraction, multi-hop]
+tags: [rag, knowledge-graph, entity-extraction, multi-hop, flashcards]
 updated: 2026-09-11
 sources: []
 ---

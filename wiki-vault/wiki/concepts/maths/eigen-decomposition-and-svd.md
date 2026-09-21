@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [linear-algebra, svd, pca, low-rank, lora]
+tags: [linear-algebra, svd, pca, low-rank, lora, flashcards]
 updated: 2026-09-11
 sources: []
 ---

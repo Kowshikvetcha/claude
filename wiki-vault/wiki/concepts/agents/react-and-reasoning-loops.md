@@ -6,7 +6,7 @@ roles: [ai-engineer, agentic-engineer, ml-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [react, agents, reasoning, tool-use, chain-of-thought]
+tags: [react, agents, reasoning, tool-use, chain-of-thought, flashcards]
 updated: 2026-09-13
 sources: []
 ---

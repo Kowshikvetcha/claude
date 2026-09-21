@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, mlops-engineer, fde]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [api-design, model-serving, rest, grpc, async, idempotency]
+tags: [api-design, model-serving, rest, grpc, async, idempotency, flashcards]
 updated: 2026-09-13
 sources: []
 ---

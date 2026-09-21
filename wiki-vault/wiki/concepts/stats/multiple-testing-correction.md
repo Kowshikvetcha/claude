@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [fwer, fdr, bonferroni, holm, benjamini-hochberg, experimentation]
+tags: [fwer, fdr, bonferroni, holm, benjamini-hochberg, experimentation, flashcards]
 updated: 2026-09-12
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: medium
 status: drafted
-tags: [rnn, lstm, gru, sequence-modeling, vanishing-gradients]
+tags: [rnn, lstm, gru, sequence-modeling, vanishing-gradients, flashcards]
 updated: 2026-09-13
 sources: []
 ---

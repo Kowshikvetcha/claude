@@ -6,7 +6,7 @@ roles: [ai-engineer, agentic-engineer, ml-engineer]
 difficulty: advanced
 frequency: high
 status: drafted
-tags: [agentic-rag, retrieval, agents, self-correction, query-planning]
+tags: [agentic-rag, retrieval, agents, self-correction, query-planning, flashcards]
 updated: 2026-09-13
 sources: []
 ---

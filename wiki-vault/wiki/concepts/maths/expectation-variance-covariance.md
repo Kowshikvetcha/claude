@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [moments, variance, covariance, linearity, law-of-total-variance]
+tags: [moments, variance, covariance, linearity, law-of-total-variance, flashcards]
 updated: 2026-09-12
 sources: []
 ---

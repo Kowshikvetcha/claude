@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, ai-engineer, data-scientist]
 difficulty: core
 frequency: high
 status: drafted
-tags: [batch, real-time, decision-framework, latency, cost]
+tags: [batch, real-time, decision-framework, latency, cost, flashcards]
 updated: 2026-09-11
 sources: []
 ---

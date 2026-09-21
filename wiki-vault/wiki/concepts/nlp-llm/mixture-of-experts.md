@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, mlops-engineer]
 difficulty: advanced
 frequency: medium
 status: drafted
-tags: [moe, sparse-routing, gating, load-balancing, serving]
+tags: [moe, sparse-routing, gating, load-balancing, serving, flashcards]
 updated: 2026-09-13
 sources: []
 ---

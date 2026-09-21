@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [dropout, weight-decay, early-stopping, augmentation, regularisation]
+tags: [dropout, weight-decay, early-stopping, augmentation, regularisation, flashcards]
 updated: 2026-09-12
 sources: []
 ---

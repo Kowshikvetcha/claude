@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [distillation, teacher-student, soft-targets, small-models]
+tags: [distillation, teacher-student, soft-targets, small-models, flashcards]
 updated: 2026-09-13
 sources: []
 ---

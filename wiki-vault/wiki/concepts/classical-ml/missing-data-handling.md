@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [preprocessing, data-quality, imputation]
+tags: [preprocessing, data-quality, imputation, flashcards]
 updated: 2026-09-11
 sources: []
 ---

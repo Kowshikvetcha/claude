@@ -6,7 +6,7 @@ roles: [agentic-engineer, ai-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [agents, computer-use, browser-automation, vision]
+tags: [agents, computer-use, browser-automation, vision, flashcards]
 updated: 2026-09-11
 sources: []
 ---

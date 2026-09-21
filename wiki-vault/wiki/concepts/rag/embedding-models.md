@@ -6,7 +6,7 @@ roles: [ai-engineer, ml-engineer, mlops-engineer, data-scientist]
 difficulty: core
 frequency: high
 status: drafted
-tags: [embeddings, bi-encoder, contrastive-learning, rag]
+tags: [embeddings, bi-encoder, contrastive-learning, rag, flashcards]
 updated: 2026-09-11
 sources: []
 ---

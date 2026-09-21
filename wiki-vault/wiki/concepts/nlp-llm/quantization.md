@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [quantization, gptq, awq, gguf, bitsandbytes, inference-optimization]
+tags: [quantization, gptq, awq, gguf, bitsandbytes, inference-optimization, flashcards]
 updated: 2026-09-13
 sources: []
 ---

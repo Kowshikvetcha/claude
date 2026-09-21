@@ -6,7 +6,7 @@ roles: [ai-engineer, ml-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [rag, retrieval, query-understanding, routing]
+tags: [rag, retrieval, query-understanding, routing, flashcards]
 updated: 2026-09-11
 sources: []
 ---

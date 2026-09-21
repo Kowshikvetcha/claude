@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [batchnorm, layernorm, rmsnorm, pre-norm, normalisation]
+tags: [batchnorm, layernorm, rmsnorm, pre-norm, normalisation, flashcards]
 updated: 2026-09-12
 sources: []
 ---

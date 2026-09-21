@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, data-scientist]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [retraining, champion-challenger, mlops, drift]
+tags: [retraining, champion-challenger, mlops, drift, flashcards]
 updated: 2026-09-11
 sources: []
 ---

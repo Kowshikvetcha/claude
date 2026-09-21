@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: medium
 status: drafted
-tags: [sequence-modeling, rnn, autoregressive, seq2seq]
+tags: [sequence-modeling, rnn, autoregressive, seq2seq, flashcards]
 updated: 2026-09-13
 sources: []
 ---

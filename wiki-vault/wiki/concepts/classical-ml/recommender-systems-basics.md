@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [recsys, collaborative-filtering, matrix-factorisation, ranking, cold-start]
+tags: [recsys, collaborative-filtering, matrix-factorisation, ranking, cold-start, flashcards]
 updated: 2026-09-12
 sources: []
 ---

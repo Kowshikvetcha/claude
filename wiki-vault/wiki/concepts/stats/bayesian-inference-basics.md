@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [bayesian, priors, posterior, conjugacy, credible-intervals, thompson-sampling]
+tags: [bayesian, priors, posterior, conjugacy, credible-intervals, thompson-sampling, flashcards]
 updated: 2026-09-12
 sources: []
 ---

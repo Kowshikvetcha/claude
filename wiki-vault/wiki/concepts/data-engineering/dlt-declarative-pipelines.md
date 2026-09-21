@@ -6,7 +6,7 @@ roles: [data-engineer, ml-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [dlt, delta-live-tables, declarative, streaming-tables, materialized-views]
+tags: [dlt, delta-live-tables, declarative, streaming-tables, materialized-views, flashcards]
 updated: 2026-09-13
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [serving, real-time, batch, streaming, architecture]
+tags: [serving, real-time, batch, streaming, architecture, flashcards]
 updated: 2026-09-11
 sources: []
 ---

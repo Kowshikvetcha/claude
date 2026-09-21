@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [probability, independence, combinatorics, sampling]
+tags: [probability, independence, combinatorics, sampling, flashcards]
 updated: 2026-09-11
 sources: []
 ---

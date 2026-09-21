@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: intermediate
 frequency: low
 status: drafted
-tags: [clustering, dbscan, hdbscan, dendrogram, linkage]
+tags: [clustering, dbscan, hdbscan, dendrogram, linkage, flashcards]
 updated: 2026-09-12
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [entropy, kl-divergence, cross-entropy, mutual-information, drift]
+tags: [entropy, kl-divergence, cross-entropy, mutual-information, drift, flashcards]
 updated: 2026-09-12
 sources: []
 ---

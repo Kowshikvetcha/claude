@@ -6,7 +6,7 @@ roles: [ai-engineer, ml-engineer, mlops-engineer]
 difficulty: advanced
 frequency: medium
 status: drafted
-tags: [ann, hnsw, ivf, vector-search, recall]
+tags: [ann, hnsw, ivf, vector-search, recall, flashcards]
 updated: 2026-09-11
 sources: []
 ---

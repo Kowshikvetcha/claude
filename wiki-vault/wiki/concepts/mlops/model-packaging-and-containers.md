@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [packaging, containers, docker, deployment, mlflow]
+tags: [packaging, containers, docker, deployment, mlflow, flashcards]
 updated: 2026-09-11
 sources: []
 ---

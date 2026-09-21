@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer, agentic-engine
 difficulty: core
 frequency: high
 status: drafted
-tags: [complexity, algorithms, dsa, amortised-analysis]
+tags: [complexity, algorithms, dsa, amortised-analysis, flashcards]
 updated: 2026-09-11
 sources: []
 ---

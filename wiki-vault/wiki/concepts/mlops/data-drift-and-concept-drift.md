@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, data-scientist]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [drift, psi, kl-divergence, statistical-tests, monitoring]
+tags: [drift, psi, kl-divergence, statistical-tests, monitoring, flashcards]
 updated: 2026-09-11
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [ai-engineer, agentic-engineer, ml-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [agents, tool-use, function-calling, json-schema]
+tags: [agents, tool-use, function-calling, json-schema, flashcards]
 updated: 2026-09-11
 sources: []
 ---

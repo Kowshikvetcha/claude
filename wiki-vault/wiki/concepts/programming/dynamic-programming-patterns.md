@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, agentic-engineer, fde]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [dsa, dynamic-programming, memoisation, recurrence, patterns]
+tags: [dsa, dynamic-programming, memoisation, recurrence, patterns, flashcards]
 updated: 2026-09-11
 sources: []
 ---

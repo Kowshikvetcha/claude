@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [linear-models, classification, log-loss, odds-ratio, convexity]
+tags: [linear-models, classification, log-loss, odds-ratio, convexity, flashcards]
 updated: 2026-09-11
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, data-scientist]
 difficulty: advanced
 frequency: high
 status: drafted
-tags: [positional-encoding, rope, alibi, context-window, long-context]
+tags: [positional-encoding, rope, alibi, context-window, long-context, flashcards]
 updated: 2026-09-13
 sources: []
 ---

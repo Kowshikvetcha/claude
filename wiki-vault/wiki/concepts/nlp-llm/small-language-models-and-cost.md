@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, mlops-engineer]
 difficulty: advanced
 frequency: high
 status: drafted
-tags: [cost, slm, routing, caching, fine-tuning, unit-economics]
+tags: [cost, slm, routing, caching, fine-tuning, unit-economics, flashcards]
 updated: 2026-09-13
 sources: []
 ---

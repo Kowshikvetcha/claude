@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [ensembles, bias-variance, bagging, boosting]
+tags: [ensembles, bias-variance, bagging, boosting, flashcards]
 updated: 2026-09-11
 sources: []
 ---

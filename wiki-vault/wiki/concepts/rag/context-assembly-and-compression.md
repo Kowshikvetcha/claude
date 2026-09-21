@@ -6,7 +6,7 @@ roles: [ai-engineer, ml-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [rag, context-window, prompt-construction, compression]
+tags: [rag, context-window, prompt-construction, compression, flashcards]
 updated: 2026-09-11
 sources: []
 ---

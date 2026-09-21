@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, data-scientist]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [data-versioning, delta-lake, dvc, reproducibility, time-travel]
+tags: [data-versioning, delta-lake, dvc, reproducibility, time-travel, flashcards]
 updated: 2026-09-11
 sources: []
 ---

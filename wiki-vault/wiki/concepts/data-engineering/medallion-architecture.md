@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [medallion, bronze-silver-gold, lakehouse, databricks]
+tags: [medallion, bronze-silver-gold, lakehouse, databricks, flashcards]
 updated: 2026-09-13
 sources: []
 ---

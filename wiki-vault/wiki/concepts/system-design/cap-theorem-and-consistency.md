@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, ai-engineer, fde]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [cap-theorem, consistency, feature-store, model-registry]
+tags: [cap-theorem, consistency, feature-store, model-registry, flashcards]
 updated: 2026-09-13
 sources: []
 ---

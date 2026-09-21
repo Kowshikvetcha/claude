@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [features, preprocessing, tabular]
+tags: [features, preprocessing, tabular, flashcards]
 updated: 2026-09-11
 sources: []
 ---

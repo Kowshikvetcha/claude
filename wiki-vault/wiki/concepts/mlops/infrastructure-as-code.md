@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, data-scientist]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [iac, terraform, reproducibility, databricks]
+tags: [iac, terraform, reproducibility, databricks, flashcards]
 updated: 2026-09-13
 sources: []
 ---

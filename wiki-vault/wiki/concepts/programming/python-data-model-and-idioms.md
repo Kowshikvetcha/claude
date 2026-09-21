@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer, agentic-engine
 difficulty: core
 frequency: high
 status: drafted
-tags: [python, dunder-methods, iterators, generators, idioms]
+tags: [python, dunder-methods, iterators, generators, idioms, flashcards]
 updated: 2026-09-11
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, data-scientist]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [calculus, gradients, backpropagation, jacobian, autograd]
+tags: [calculus, gradients, backpropagation, jacobian, autograd, flashcards]
 updated: 2026-09-11
 sources: []
 ---

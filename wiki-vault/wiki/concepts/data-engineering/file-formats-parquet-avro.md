@@ -6,7 +6,7 @@ roles: [data-engineer, ml-engineer, mlops-engineer]
 difficulty: core
 frequency: medium
 status: drafted
-tags: [parquet, avro, columnar, file-formats, schema-evolution]
+tags: [parquet, avro, columnar, file-formats, schema-evolution, flashcards]
 updated: 2026-09-13
 sources: []
 ---

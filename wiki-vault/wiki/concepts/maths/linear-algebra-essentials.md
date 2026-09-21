@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [linear-algebra, matrices, rank, least-squares]
+tags: [linear-algebra, matrices, rank, least-squares, flashcards]
 updated: 2026-09-11
 sources: []
 ---

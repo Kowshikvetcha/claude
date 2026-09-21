@@ -6,7 +6,7 @@ roles: [ai-engineer, agentic-engineer, ml-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [memory, context-window, vector-store, episodic-memory, agents]
+tags: [memory, context-window, vector-store, episodic-memory, agents, flashcards]
 updated: 2026-09-13
 sources: []
 ---

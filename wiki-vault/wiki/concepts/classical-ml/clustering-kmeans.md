@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: medium
 status: drafted
-tags: [clustering, unsupervised, kmeans, lloyd, silhouette]
+tags: [clustering, unsupervised, kmeans, lloyd, silhouette, flashcards]
 updated: 2026-09-12
 sources: []
 ---

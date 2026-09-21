@@ -6,7 +6,7 @@ roles: [ai-engineer, agentic-engineer, ml-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [agents, autonomy, react, tool-use]
+tags: [agents, autonomy, react, tool-use, flashcards]
 updated: 2026-09-11
 sources: []
 ---

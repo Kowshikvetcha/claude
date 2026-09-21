@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [inference, uncertainty, wilson, bootstrap, estimation]
+tags: [inference, uncertainty, wilson, bootstrap, estimation, flashcards]
 updated: 2026-09-11
 sources: []
 ---

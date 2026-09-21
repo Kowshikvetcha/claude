@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: advanced
 frequency: medium
 status: drafted
-tags: [causality, confounding, dag, diff-in-diff, propensity-score, iv, rdd]
+tags: [causality, confounding, dag, diff-in-diff, propensity-score, iv, rdd, flashcards]
 updated: 2026-09-12
 sources: []
 ---

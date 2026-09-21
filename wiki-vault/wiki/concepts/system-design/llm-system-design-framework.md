@@ -6,7 +6,7 @@ roles: [ai-engineer, ml-engineer, agentic-engineer, fde, mlops-engineer]
 difficulty: advanced
 frequency: high
 status: drafted
-tags: [llm, system-design, rag, cost, evaluation, guardrails]
+tags: [llm, system-design, rag, cost, evaluation, guardrails, flashcards]
 updated: 2026-09-13
 sources: []
 ---

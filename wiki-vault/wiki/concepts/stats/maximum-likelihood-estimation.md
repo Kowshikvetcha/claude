@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [mle, likelihood, map, loss-functions, regularization]
+tags: [mle, likelihood, map, loss-functions, regularization, flashcards]
 updated: 2026-09-12
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [ai-engineer, ml-engineer, mlops-engineer, fde]
 difficulty: core
 frequency: high
 status: drafted
-tags: [ingestion, parsing, ocr, rag]
+tags: [ingestion, parsing, ocr, rag, flashcards]
 updated: 2026-09-11
 sources: []
 ---

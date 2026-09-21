@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [trees, cart, splitting-criteria, interpretability]
+tags: [trees, cart, splitting-criteria, interpretability, flashcards]
 updated: 2026-09-11
 sources: []
 ---

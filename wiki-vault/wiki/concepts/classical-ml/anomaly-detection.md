@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [anomaly, isolation-forest, one-class, novelty, monitoring]
+tags: [anomaly, isolation-forest, one-class, novelty, monitoring, flashcards]
 updated: 2026-09-12
 sources: []
 ---

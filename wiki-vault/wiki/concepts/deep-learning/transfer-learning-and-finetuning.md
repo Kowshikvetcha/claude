@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [transfer-learning, finetuning, pretraining, feature-extraction]
+tags: [transfer-learning, finetuning, pretraining, feature-extraction, flashcards]
 updated: 2026-09-13
 sources: []
 ---

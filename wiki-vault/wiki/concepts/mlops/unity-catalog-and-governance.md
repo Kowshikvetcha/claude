@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, data-scientist]
 difficulty: core
 frequency: high
 status: drafted
-tags: [unity-catalog, databricks, governance, lineage, access-control]
+tags: [unity-catalog, databricks, governance, lineage, access-control, flashcards]
 updated: 2026-09-11
 sources: []
 ---

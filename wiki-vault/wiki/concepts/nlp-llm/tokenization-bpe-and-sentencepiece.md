@@ -6,7 +6,7 @@ roles: [ai-engineer, ml-engineer, data-scientist]
 difficulty: core
 frequency: high
 status: drafted
-tags: [tokenization, bpe, sentencepiece, vocabulary, subword]
+tags: [tokenization, bpe, sentencepiece, vocabulary, subword, flashcards]
 updated: 2026-09-12
 sources: []
 ---

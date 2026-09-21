@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [bert, encoder, mlm, bidirectional, representation-learning]
+tags: [bert, encoder, mlm, bidirectional, representation-learning, flashcards]
 updated: 2026-09-13
 sources: []
 ---

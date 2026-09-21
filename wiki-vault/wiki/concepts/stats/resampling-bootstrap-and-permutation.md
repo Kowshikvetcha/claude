@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [bootstrap, permutation, confidence-intervals, resampling, out-of-bag]
+tags: [bootstrap, permutation, confidence-intervals, resampling, out-of-bag, flashcards]
 updated: 2026-09-12
 sources: []
 ---

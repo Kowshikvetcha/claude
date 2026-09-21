@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [chain-rule, autodiff, computational-graph, derivation]
+tags: [chain-rule, autodiff, computational-graph, derivation, flashcards]
 updated: 2026-09-12
 sources: []
 ---

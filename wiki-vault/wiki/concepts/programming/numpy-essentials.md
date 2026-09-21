@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [numpy, vectorisation, broadcasting, arrays, memory-layout]
+tags: [numpy, vectorisation, broadcasting, arrays, memory-layout, flashcards]
 updated: 2026-09-11
 sources: []
 ---

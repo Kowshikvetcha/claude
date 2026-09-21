@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [alpha, beta, errors, decision-theory, thresholds]
+tags: [alpha, beta, errors, decision-theory, thresholds, flashcards]
 updated: 2026-09-11
 sources: []
 ---

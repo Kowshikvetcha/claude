@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [pyspark, dataframe-api, udf, pandas-udf]
+tags: [pyspark, dataframe-api, udf, pandas-udf, flashcards]
 updated: 2026-09-13
 sources: []
 ---

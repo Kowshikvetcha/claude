@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [sql, aggregation, group-by, conditional-aggregation]
+tags: [sql, aggregation, group-by, conditional-aggregation, flashcards]
 updated: 2026-09-12
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, fde]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [hallucination, grounding, retrieval, abstention, citation]
+tags: [hallucination, grounding, retrieval, abstention, citation, flashcards]
 updated: 2026-09-13
 sources: []
 ---

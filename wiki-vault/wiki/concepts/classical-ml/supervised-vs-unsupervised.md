@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: medium
 status: drafted
-tags: [taxonomy, learning-paradigms, self-supervision]
+tags: [taxonomy, learning-paradigms, self-supervision, flashcards]
 updated: 2026-09-11
 sources: []
 ---

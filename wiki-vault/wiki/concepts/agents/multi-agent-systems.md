@@ -6,7 +6,7 @@ roles: [ai-engineer, agentic-engineer, ml-engineer]
 difficulty: advanced
 frequency: medium
 status: drafted
-tags: [multi-agent, orchestrator-worker, debate, hierarchical-agents, coordination]
+tags: [multi-agent, orchestrator-worker, debate, hierarchical-agents, coordination, flashcards]
 updated: 2026-09-13
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [sql, cte, subquery, recursion]
+tags: [sql, cte, subquery, recursion, flashcards]
 updated: 2026-09-12
 sources: []
 ---

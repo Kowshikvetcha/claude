@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [learning-rate, warmup, cosine, one-cycle, lr-range-test]
+tags: [learning-rate, warmup, cosine, one-cycle, lr-range-test, flashcards]
 updated: 2026-09-12
 sources: []
 ---

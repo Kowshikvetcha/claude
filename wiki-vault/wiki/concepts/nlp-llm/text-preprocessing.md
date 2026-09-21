@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: medium
 status: drafted
-tags: [nlp, preprocessing, normalization, cleaning]
+tags: [nlp, preprocessing, normalization, cleaning, flashcards]
 updated: 2026-09-12
 sources: []
 ---

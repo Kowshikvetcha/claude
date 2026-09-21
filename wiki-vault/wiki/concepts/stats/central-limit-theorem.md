@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [clt, asymptotics, normality, standard-error]
+tags: [clt, asymptotics, normality, standard-error, flashcards]
 updated: 2026-09-11
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, mlops-engineer]
 difficulty: advanced
 frequency: medium
 status: drafted
-tags: [flash-attention, memory-bandwidth, tiling, online-softmax, efficient-attention]
+tags: [flash-attention, memory-bandwidth, tiling, online-softmax, efficient-attention, flashcards]
 updated: 2026-09-13
 sources: []
 ---

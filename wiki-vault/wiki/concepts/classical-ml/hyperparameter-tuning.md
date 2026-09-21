@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [tuning, optuna, bayesian-optimization, hyperband, nested-cv]
+tags: [tuning, optuna, bayesian-optimization, hyperband, nested-cv, flashcards]
 updated: 2026-09-12
 sources: []
 ---

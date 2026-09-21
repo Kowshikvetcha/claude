@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [embedding-table, cosine-similarity, representation, lookup]
+tags: [embedding-table, cosine-similarity, representation, lookup, flashcards]
 updated: 2026-09-12
 sources: []
 ---

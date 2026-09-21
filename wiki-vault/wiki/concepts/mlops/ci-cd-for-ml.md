@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer]
 difficulty: advanced
 frequency: medium
 status: drafted
-tags: [ci-cd, mlops, model-quality-gates, shadow-deployment]
+tags: [ci-cd, mlops, model-quality-gates, shadow-deployment, flashcards]
 updated: 2026-09-11
 sources: []
 ---

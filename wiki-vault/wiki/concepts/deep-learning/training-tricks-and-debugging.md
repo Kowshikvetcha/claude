@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, data-scientist, mlops-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [debugging, checklist, overfit-one-batch, nan, reproducibility]
+tags: [debugging, checklist, overfit-one-batch, nan, reproducibility, flashcards]
 updated: 2026-09-12
 sources: []
 ---

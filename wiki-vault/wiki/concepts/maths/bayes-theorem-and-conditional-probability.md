@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [probability, bayes, conditioning, base-rates]
+tags: [probability, bayes, conditioning, base-rates, flashcards]
 updated: 2026-09-12
 sources: []
 ---

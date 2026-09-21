@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, mlops-engineer]
 difficulty: advanced
 frequency: high
 status: drafted
-tags: [rlhf, ppo, reward-model, kl-penalty, alignment]
+tags: [rlhf, ppo, reward-model, kl-penalty, alignment, flashcards]
 updated: 2026-09-13
 sources: []
 ---

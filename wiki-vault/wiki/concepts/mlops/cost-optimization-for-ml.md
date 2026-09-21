@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, ai-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [cost, spot-instances, autoscaling, quantization, distillation]
+tags: [cost, spot-instances, autoscaling, quantization, distillation, flashcards]
 updated: 2026-09-11
 sources: []
 ---

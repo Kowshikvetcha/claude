@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [imbalance, smote, class-weights, resampling, rare-events]
+tags: [imbalance, smote, class-weights, resampling, rare-events, flashcards]
 updated: 2026-09-12
 sources: []
 ---

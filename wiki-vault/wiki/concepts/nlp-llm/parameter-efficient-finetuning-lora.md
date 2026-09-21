@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, mlops-engineer]
 difficulty: advanced
 frequency: high
 status: drafted
-tags: [lora, qlora, peft, fine-tuning, quantization, adapters]
+tags: [lora, qlora, peft, fine-tuning, quantization, adapters, flashcards]
 updated: 2026-09-13
 sources: []
 ---

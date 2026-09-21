@@ -6,7 +6,7 @@ roles: [ai-engineer, ml-engineer, mlops-engineer]
 difficulty: advanced
 frequency: high
 status: drafted
-tags: [rag, debugging, failure-modes, diagnostics]
+tags: [rag, debugging, failure-modes, diagnostics, flashcards]
 updated: 2026-09-11
 sources: []
 ---

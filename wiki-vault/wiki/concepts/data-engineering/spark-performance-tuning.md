@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer]
 difficulty: advanced
 frequency: high
 status: drafted
-tags: [spark, performance, shuffle, skew, aqe, spark-ui]
+tags: [spark, performance, shuffle, skew, aqe, spark-ui, flashcards]
 updated: 2026-09-13
 sources: []
 ---

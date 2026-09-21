@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, data-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [pandas, dataframes, groupby, joins, eda]
+tags: [pandas, dataframes, groupby, joins, eda, flashcards]
 updated: 2026-09-11
 sources: []
 ---

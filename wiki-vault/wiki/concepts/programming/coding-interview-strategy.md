@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, mlops-engineer, agentic-engine
 difficulty: core
 frequency: high
 status: drafted
-tags: [interview-process, problem-solving, communication]
+tags: [interview-process, problem-solving, communication, flashcards]
 updated: 2026-09-12
 sources: []
 ---

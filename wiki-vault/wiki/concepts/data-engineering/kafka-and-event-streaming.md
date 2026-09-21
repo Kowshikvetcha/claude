@@ -6,7 +6,7 @@ roles: [data-engineer, ml-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [kafka, streaming, event-driven, bronze-layer]
+tags: [kafka, streaming, event-driven, bronze-layer, flashcards]
 updated: 2026-09-13
 sources: []
 ---

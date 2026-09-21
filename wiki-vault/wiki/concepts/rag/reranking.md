@@ -6,7 +6,7 @@ roles: [ai-engineer, ml-engineer, mlops-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [rag, retrieval, cross-encoder, reranking]
+tags: [rag, retrieval, cross-encoder, reranking, flashcards]
 updated: 2026-09-11
 sources: []
 ---

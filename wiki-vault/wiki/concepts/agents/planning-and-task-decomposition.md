@@ -6,7 +6,7 @@ roles: [ai-engineer, agentic-engineer, ml-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [planning, decomposition, plan-and-execute, replanning, agents]
+tags: [planning, decomposition, plan-and-execute, replanning, agents, flashcards]
 updated: 2026-09-13
 sources: []
 ---

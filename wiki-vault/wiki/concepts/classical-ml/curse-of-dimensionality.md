@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [high-dimensional, geometry, distance-concentration, sample-complexity]
+tags: [high-dimensional, geometry, distance-concentration, sample-complexity, flashcards]
 updated: 2026-09-12
 sources: []
 ---

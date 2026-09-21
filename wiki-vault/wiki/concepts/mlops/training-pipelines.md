@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [training-pipelines, orchestration, idempotency, retries]
+tags: [training-pipelines, orchestration, idempotency, retries, flashcards]
 updated: 2026-09-11
 sources: []
 ---

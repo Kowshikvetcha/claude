@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer, agentic-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [prompting, few-shot, chain-of-thought, self-consistency, prompt-injection]
+tags: [prompting, few-shot, chain-of-thought, self-consistency, prompt-injection, flashcards]
 updated: 2026-09-13
 sources: []
 ---

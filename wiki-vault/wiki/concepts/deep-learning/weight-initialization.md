@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [xavier, glorot, he-init, variance-preservation, symmetry-breaking]
+tags: [xavier, glorot, he-init, variance-preservation, symmetry-breaking, flashcards]
 updated: 2026-09-12
 sources: []
 ---

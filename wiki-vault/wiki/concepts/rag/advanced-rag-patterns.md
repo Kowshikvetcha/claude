@@ -6,7 +6,7 @@ roles: [ai-engineer, ml-engineer, mlops-engineer]
 difficulty: advanced
 frequency: medium
 status: drafted
-tags: [rag, hyde, query-decomposition, self-rag, routing]
+tags: [rag, hyde, query-decomposition, self-rag, routing, flashcards]
 updated: 2026-09-11
 sources: []
 ---

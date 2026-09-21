@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, agentic-engineer, fde]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [structured-output, json-schema, function-calling, constrained-decoding, grammars]
+tags: [structured-output, json-schema, function-calling, constrained-decoding, grammars, flashcards]
 updated: 2026-09-13
 sources: []
 ---

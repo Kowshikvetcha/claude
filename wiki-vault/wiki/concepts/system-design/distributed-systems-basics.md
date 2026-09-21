@@ -6,7 +6,7 @@ roles: [ml-engineer, mlops-engineer, ai-engineer, fde]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [distributed-systems, replication, leader-election, consistency]
+tags: [distributed-systems, replication, leader-election, consistency, flashcards]
 updated: 2026-09-13
 sources: []
 ---

@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, mlops-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [lag-features, rolling-windows, backtesting, rolling-origin, temporal-leakage]
+tags: [lag-features, rolling-windows, backtesting, rolling-origin, temporal-leakage, flashcards]
 updated: 2026-09-12
 sources: []
 ---

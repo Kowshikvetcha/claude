@@ -6,7 +6,7 @@ roles: [ml-engineer, ai-engineer, mlops-engineer, agentic-engineer]
 difficulty: intermediate
 frequency: high
 status: drafted
-tags: [llmops, prompt-versioning, tracing, eval, cost-monitoring]
+tags: [llmops, prompt-versioning, tracing, eval, cost-monitoring, flashcards]
 updated: 2026-09-11
 sources: []
 ---

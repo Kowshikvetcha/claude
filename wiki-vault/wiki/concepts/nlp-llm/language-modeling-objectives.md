@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer, ai-engineer]
 difficulty: core
 frequency: high
 status: drafted
-tags: [language-modeling, mlm, causal-lm, seq2seq, pretraining-objectives]
+tags: [language-modeling, mlm, causal-lm, seq2seq, pretraining-objectives, flashcards]
 updated: 2026-09-13
 sources: []
 ---

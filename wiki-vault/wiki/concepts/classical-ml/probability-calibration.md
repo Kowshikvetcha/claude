@@ -6,7 +6,7 @@ roles: [data-scientist, ml-engineer]
 difficulty: intermediate
 frequency: medium
 status: drafted
-tags: [calibration, brier-score, platt-scaling, isotonic, reliability]
+tags: [calibration, brier-score, platt-scaling, isotonic, reliability, flashcards]
 updated: 2026-09-12
 sources: []
 ---
